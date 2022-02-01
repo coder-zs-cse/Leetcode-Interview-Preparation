@@ -1,4 +1,4 @@
-**#Leetcode-Interview-Preparation-Graph-Roadmap**
+**#Leetcode-Interview-Preparation-Graph-Practice-Set**
 
 Part 1
 1. https://leetcode.com/problems/number-of-provinces/
