@@ -1,4 +1,4 @@
-# Leetcode-Interview-Preperation-Dynamic-Programming-Roadmap
+# Leetcode-Interview-Preperation-Dynamic-Programming-Guide
 Part 1
 1. https://leetcode.com/problems/house-robber/
 2. https://leetcode.com/problems/min-cost-climbing-stairs/
