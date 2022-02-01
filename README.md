@@ -1,1 +1,1 @@
-# Leetcode-Interview-Preperation
+# Leetcode-Interview-Preparation
